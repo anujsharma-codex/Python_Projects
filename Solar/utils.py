@@ -6,11 +6,14 @@ class Utils:
     def get_formatted_currency(self,amount):
         return f'Rs. {amount:,.2f}'
     
+    def get_formatted_number(self,amount):
+        return f'{amount:,.2f}'
+    
     def get_formatted_time_in_years(self,time):
         return f'{time} years'
     
     def get_formatted_energy_in_kW(self,energy):
-        return f'{energy} kW'
+        return f'{energy} kWh'  
     
     def percentage_conversion(self, value):
         return value/100

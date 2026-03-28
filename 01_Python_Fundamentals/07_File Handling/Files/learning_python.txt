@@ -1,7 +1,0 @@
-In python you can interact with user
-In python you can print thingss that the coder defines
-In python simple tasks can be easily automated
-In python you can code in english
-In python you can calculate numbers and complex problems
-In python you can always take inputs and give outputs
-In python you can make basic models of real life machines, logics and even living beings.
