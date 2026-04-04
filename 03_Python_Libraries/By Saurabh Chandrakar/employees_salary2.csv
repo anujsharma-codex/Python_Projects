@@ -1,0 +1,16 @@
+EmployeeID,Employee Name,Department,Position,Salary,Experience_Years
+101,John Smith,Sales,Sales Manager,75000,8
+102,Emma Johnson,Marketing,Marketing Specialist,52000,3
+103,Michael Brown,IT,Software Developer,,5
+104,Sarah Davis,HR,HR Coordinator,45000,
+105,Robert Wilson,Finance,,62000,4
+106,Emily Martinez,Sales,Sales Representative,48000,1
+107,David Anderson,IT,System Administrator,71000,7
+108,Lisa Taylor,Marketing,Marketing Manager,82000,
+109,James Thomas,Finance,Finance Manager,,11
+110,Maria Garcia,HR,,78000,8
+111,Charles Miller,IT,Data Scientist,95000,
+112,Patricia Moore,Sales,Sales Director,,15
+113,Daniel Jackson,Finance,Accountant,54000,3
+114,Barbara White,Marketing,,,4
+115,Richard Harris,IT,DevOps Engineer,86000,7
